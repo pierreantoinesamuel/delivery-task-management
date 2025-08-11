@@ -1,4 +1,4 @@
-# Copilot Instructions for AI Coding Agents
+#  AI Coding Agents
 
 ## Project Overview
 - This is a Python project for delivery task management, using FastAPI for the API layer and Pydantic for data validation and business logic.
